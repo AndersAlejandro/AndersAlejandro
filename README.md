@@ -1,5 +1,10 @@
 ### Hola! Soy Anders Mamani 👋
 
+Vivo en Chile
+Soy estudiante de programación web Javascript
+Se sobre sql,node.js,javscript,html5,css,bootstrap
+No tengo experienvia previa en el rubro, pero estoy entusiasmado en aprender mas sobre la programación y asi poder ejercer en lo que me gusta
+Twitter: https://x.com/Redkcz
 <!--
 **AndersAlejandro/AndersAlejandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
